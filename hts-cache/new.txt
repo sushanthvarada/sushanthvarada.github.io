@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-17:07:43	99333/99333	---MCZ	200	added ('OK')	text/html	date:Sat,%2023%20Dec%202023%2011:37:40%20GMT	https://sites.google.com/view/sushanthvarada/about-me	C:/My%20Web%20Sites/My_Google_Site/sites.google.com/view/sushanthvarada/about-me.html	(from )
-17:07:43	77/77	---MCZ	200	added ('OK')	text/plain	date:Sat,%2023%20Dec%202023%2011:37:41%20GMT	https://sites.google.com/robots.txt		(from )
-17:07:44	18377/18377	---M--	200	added ('OK')	text/javascript	etag:%2251bc5b91b5dd08fc%22	https://apis.google.com/js/client.js?onload=gapiLoaded	C:/My%20Web%20Sites/My_Google_Site/apis.google.com/js/clientc932.js	(from https://sites.google.com/view/sushanthvarada/about-me)
