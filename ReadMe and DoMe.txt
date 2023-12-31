@@ -39,6 +39,15 @@ Google Sites Links
 5) Experience Navbar button - https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fsushanthvarada%2Fabout%23h.dgu5f2a7ah10&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2EG_MPWVALCO9guXvp8REX
 
 6) Contact Navbar button: https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fsushanthvarada%2Fabout%23h.2anh11c2z94e&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2rHJmZ2IVCFHzAPCnzolom
+
+HTML File relevant div IDs
+1) About - Use Section ID for this
+2) Publications - #h.wac2zk2z9r5i
+3) Research - #h.t5dzel4hfwk9
+4) Education - #h.rl9tbx1e53v5
+5) Experience - #h.dgu5f2a7ah10
+6) Contact - Use Section ID for this
+
  
 
 Replace with GitHub Pages links
