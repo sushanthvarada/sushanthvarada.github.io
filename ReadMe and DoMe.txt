@@ -1,3 +1,7 @@
+SEARCH ENGINES INDEXING - Delete the following from About.html and index.html
+1) search for <meta name="robots" content="noindex">
+2) Remove it from the html files
+
 CSS - Fonts & Scrollings effects (UPDATE About.html and then COPY to CREATE index.html)
 [Automated this CSS file link addition via Python script: "replace-href_add-css.py"] 
 1) Add the code snippet "<link rel="stylesheet" href="global-styles.css">" just before <\head> in About/index.html
