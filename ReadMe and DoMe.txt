@@ -1,4 +1,5 @@
 SEARCH ENGINES INDEXING - Delete the following from About.html and index.html
+[Automated through python script]
 1) search for <meta name="robots" content="noindex">
 2) Remove it from the html files
 
