@@ -1,3 +1,5 @@
 1) Automate meta tag addition through python script
 2) Adjust alignment of "Contact" header for mobile site
-3) Replace/Enhance "Contact" background image
+3) Replace/Enhance "Contact" and "Publications" background image - They are pixelated right now
+4) Update the visiting address with office box number "93128"
+ 
