@@ -51,7 +51,7 @@ HTML File relevant div IDs
 3) Research - #h.t5dzel4hfwk9
 4) Education - #h.rl9tbx1e53v5
 5) Experience - #h.dgu5f2a7ah10
-6) Contact - Use Section ID for this
+6) Contact - #h.2anh11c2z94e (Use[d] Section ID for this)
 
  
 
@@ -61,6 +61,6 @@ Replace with GitHub Pages links
 
 RUNNING the Python Script "replace-href_add-css.py"
 Perform (1) if links don't contain "&amp;" else we can ignore it
-1) MANUAL STEP BEFORE RUNNING THE SCRIPT:
+(1) MANUAL STEP BEFORE RUNNING THE SCRIPT:
    Replace "&" with "&amp;"
    THIS ADJUSTS THE OLD LINKS COPIED FROM PUBLISHED GOOGLE SITE WITH THAT OF STORED LINKS IN HTML FILE
