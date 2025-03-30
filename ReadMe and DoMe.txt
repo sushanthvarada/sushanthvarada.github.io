@@ -1,3 +1,5 @@
+AFTER Running the Python script --> Copy "About.html" --> Rename it to "index.html"
+
 SEARCH ENGINES INDEXING - Delete the following from About.html and index.html
 [Automated through python script]
 1) search for <meta name="robots" content="noindex">
@@ -62,3 +64,4 @@ Perform (1) if links don't contain "&amp;" else we can ignore it
 (1) MANUAL STEP BEFORE RUNNING THE SCRIPT:
    Replace "&" with "&amp;"
    THIS ADJUSTS THE OLD LINKS COPIED FROM PUBLISHED GOOGLE SITE WITH THAT OF STORED LINKS IN HTML FILE
+(2) AFTER Running the Python script --> Copy "About.html" --> Rename it to "index.html"
